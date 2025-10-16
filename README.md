@@ -12,5 +12,7 @@ The Real-Time Chat Application is a simple yet powerful communication platform b
 ## Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js with Express
+
 Real-time Engine: Socket.io
