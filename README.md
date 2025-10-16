@@ -16,3 +16,8 @@ Frontend: HTML, CSS, JavaScript
 Backend: Node.js with Express
 
 Real-time Engine: Socket.io
+
+## Run
+npm install
+
+npm start
